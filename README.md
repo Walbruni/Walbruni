@@ -1,12 +1,12 @@
 ### Hello World! 
-Eu sou o Lucas Walbruni 👋
+My name is Lucas Walbruni 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-walbruni-765216182/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucaswalbruni/)
 
 ![Walbruni GitHub stats](https://github-readme-stats.vercel.app/api?username=walbruni&show_icons=true&theme=dracula)
 
-### Tecnologias que utilizo
+### I currently use the following technologies
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -17,7 +17,7 @@ Eu sou o Lucas Walbruni 👋
 </div>
 <br>
 
-Estudando atualmente
+I'm currently studying
 
 <div style="display: inline_block">
   <img align="center" alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
