@@ -3,7 +3,7 @@
 
 <div>
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Walbruni&show_icons=true&theme=nord&include_all_commits=true&count_private=true" /> 
-  <img align="right" height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Walbruni&layout=Demo&langs_count=16&theme=nord" />
+  <img align="right" height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Walbruni&layout=compact&langs_count=16&theme=nord" />
 </div>
 
 ##
